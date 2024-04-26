@@ -48,12 +48,6 @@ When used in conjunction with the server, the above features constitute a basic 
 
 
 
-
-## Support
-
-When you are experiencing an issue on SendingnNetwork iOS, please first search in [GitHub issues](https://github.com/Sending-Network/sendingnetwork-ios/issues)
-. Otherwise feel free to create a GitHub issue if you encounter a bug or a crash, by explaining clearly in detail what happened. You can also perform bug reporting (Rageshake) from the SendingnNetwork application by shaking your phone or going to the application settings. This is especially recommended when you encounter a crash.
-
 ## Copyright & License
 
 Copyright (c) 2014-2017 OpenMarket Ltd  
